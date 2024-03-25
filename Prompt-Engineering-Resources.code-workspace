@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ai-notes",
+			"path": "../ai-notes"
+		},
+		{
+			"name": "kldb-gpt-prompting",
+			"path": "../kldb-gpt-prompting"
+		}
+	],
+	"settings": {}
+}
